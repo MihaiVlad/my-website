@@ -12,3 +12,7 @@ This is just a readme file. Text added when playing with conficts.
 
 The purpose of this file is to provide examples 
 on how to use GIT and GITHUB together
+
+## Getting started
+
+To get stardet with this project, just 'clone' this repository
